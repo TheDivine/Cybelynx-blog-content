@@ -1,4 +1,4 @@
-![Cybersecurity Breach Illustration](/public/solana.webp)
+![Cybersecurity Breach Illustration](/solana.webp)
 
 According to recent reports from *The Hacker News*, cybersecurity researchers have uncovered a critical software supply chain attack targeting the popular Solana Web3.js npm library, potentially compromising cryptocurrency wallets and highlighting ongoing threats in the blockchain ecosystem.
 
