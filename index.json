@@ -1,0 +1,120 @@
+[
+  {
+    "slug": "prompt-injection-vulnerability-in-deepseek-and-claude-ai",
+    "title": "Researchers Uncover Prompt Injection Vulnerabilities in DeepSeek and Claude AI",
+    "description": "A comprehensive guide to getting started with penetration testing.",
+    "pubDate": "2024-12-03",
+    "tags": [
+      "pentesting",
+      "security",
+      "hacking",
+      "cybersecurity"
+    ]
+  },
+  {
+    "slug": "solana-web3-backdoor-discovered",
+    "title": "Solana Web3.js Backdoor Discovered",
+    "description": "A critical software supply chain attack targeting the Solana web3.js npm library compromises cryptocurrency wallets and highlights blockchain ecosystem threats.",
+    "pubDate": "2024-12-02",
+    "tags": [
+      "cybersecurity",
+      "blockchain",
+      "supply-chain-attack",
+      "npm"
+    ]
+  },
+  {
+    "slug": "deploying-k8s-checklist",
+    "title": "Deploying Kubernetes on Bare Metal the Hard Way",
+    "description": "Essential security practices for cloud environments and infrastructure.",
+    "pubDate": "2024-11-27",
+    "tags": [
+      "kubernetes",
+      "security",
+      "devops",
+      "containers"
+    ]
+  },
+  {
+    "slug": "cloud-security",
+    "title": "Cloud Security Fundamentals",
+    "description": "Essential security practices for cloud environments and infrastructure.",
+    "pubDate": "2024-03-27",
+    "tags": [
+      "cloud",
+      "security",
+      "aws",
+      "azure"
+    ]
+  },
+  {
+    "slug": "penetration-testing",
+    "title": "Introduction to Penetration Testing",
+    "description": "A comprehensive guide to getting started with penetration testing.",
+    "pubDate": "2024-03-26",
+    "tags": [
+      "pentesting",
+      "security",
+      "hacking",
+      "cybersecurity"
+    ]
+  },
+  {
+    "slug": "kubernetes-security",
+    "title": "Kubernetes Security Best Practices",
+    "description": "Essential security practices for securing your Kubernetes clusters and workloads.",
+    "pubDate": "2024-03-25",
+    "tags": [
+      "kubernetes",
+      "security",
+      "devops",
+      "containers"
+    ]
+  },
+  {
+    "slug": "incident-response",
+    "title": "Effective Incident Response Planning",
+    "description": "A comprehensive guide to creating and implementing an effective incident response plan.",
+    "pubDate": "2024-03-24",
+    "tags": [
+      "incident-response",
+      "security",
+      "planning"
+    ]
+  },
+  {
+    "slug": "network-security",
+    "title": "Essential Network Security Monitoring Techniques",
+    "description": "Learn about effective network security monitoring practices and tools for maintaining a secure infrastructure.",
+    "pubDate": "2024-03-23",
+    "tags": [
+      "network-security",
+      "monitoring",
+      "cybersecurity",
+      "tools"
+    ]
+  },
+  {
+    "slug": "docker-security",
+    "title": "Essential Docker Security Best Practices",
+    "description": "Learn the key security practices for containerized applications and how to implement them effectively.",
+    "pubDate": "2024-03-22",
+    "tags": [
+      "docker",
+      "security",
+      "containers",
+      "devops"
+    ]
+  },
+  {
+    "slug": "welcome",
+    "title": "Welcome to My Cybersecurity Blog",
+    "description": "An introduction to my background in system administration and cybersecurity, and what you can expect from this blog.",
+    "pubDate": "2024-03-21",
+    "tags": [
+      "introduction",
+      "cybersecurity",
+      "sysadmin"
+    ]
+  }
+]
