@@ -21,7 +21,11 @@
       "blockchain",
       "supply-chain-attack",
       "npm"
-    ]
+    ],
+    "image": {
+      "src": "images/solana.webp",
+      "alt": "Cybersecurity Breach Illustration"
+    }
   },
   {
     "slug": "deploying-k8s-checklist",
