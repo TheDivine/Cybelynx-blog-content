@@ -178,7 +178,18 @@ Here's a comprehensive **checklist for setting up a Kubernetes Master Node**. Fo
 
 ---
 
-### **Summary Checklist**
+### **Summary Checklist
+
+| Step | Command/Description | Status |
+|---|---|---|
+| Disable Swap | `swapoff -a` | ✅ |
+| Install Docker/Containerd | Install and configure container runtime | ✅ |
+| Load Kernel Modules | Configure overlay, br_netfilter, etc. | ✅ |
+| Install Kubernetes Components | kubeadm, kubelet, kubectl | ✅ |
+| Initialize Master Node | `kubeadm init` | ✅ |
+| Configure kubectl | Copy and set permissions for kubeconfig | ✅ |
+| Install Pod Network | Apply Flannel or Calico | ✅ |
+| Verify Cluster | `kubectl get nodes` and `kubectl get pods --all-namespaces` | ✅ |
 
 | **Step**                        | **Command/Description**                                                     | **Status** |
 |----------------------------------|-----------------------------------------------------------------------------|------------|
