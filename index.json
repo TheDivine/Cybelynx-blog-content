@@ -112,7 +112,11 @@
       "security",
       "containers",
       "devops"
-    ]
+    ],
+    "image": {
+      "src": "images/docker-security.png",
+      "alt": "Essential Docker Security Best Practices"
+    }
   },
   {
     "slug": "welcome",
