@@ -73,7 +73,11 @@
       "security",
       "devops",
       "containers"
-    ]
+    ],
+    "image": {
+      "src": "https://raw.githubusercontent.com/TheDivine/Cybelynx-blog-content/main/images/blog-preview.png",
+      "alt": "Kubernetes Security Best Practices"
+    }
   },
   {
     "slug": "incident-response",
