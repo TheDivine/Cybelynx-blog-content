@@ -15,6 +15,10 @@ This repository stores the blog post content that the Astro site loads at runtim
 Images should be stored in this repo under `images/`.
 Reference them in Markdown as `images/your-image.ext`.
 
+If a post doesn't define `image` in `index.json`, the site will attempt to use
+the first Markdown image as the blog list preview. If no image exists, it falls
+back to `CONTENT_DEFAULT_IMAGE`.
+
 
 ## Regenerating index.json
 If you're rebuilding from frontmatter-based posts, you can generate `index.json`
