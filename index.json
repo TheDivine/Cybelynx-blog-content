@@ -75,7 +75,7 @@
       "containers"
     ],
     "image": {
-      "src": "https://raw.githubusercontent.com/TheDivine/Cybelynx-blog-content/main/images/blog-preview.png",
+      "src": "images/kubernetes-security.png",
       "alt": "Kubernetes Security Best Practices"
     }
   },
